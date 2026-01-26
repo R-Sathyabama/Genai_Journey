@@ -1,6 +1,5 @@
 __pycache__/
 *.log
-*.txt
 .DS_Store
 my_private_vault
 *.xlsx
