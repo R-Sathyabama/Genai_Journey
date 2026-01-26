@@ -32,4 +32,4 @@ python pyautogui_bot.py
 ###  Output
 - Google News search opens
 - First news article is clicked
-- Demo recorded in <video controls src="https://github.com/R-Sathyabama/Genai_Journey/blob/main/assignments/week1/pyautogui/pyautogui.mp4" title="pyautogui.mp4"></video>
+- Demo recorded in [pyautogui.mp4](https://github.com/R-Sathyabama/Genai_Journey/blob/main/assignments/week1/pyautogui/pyautogui.mp4)
