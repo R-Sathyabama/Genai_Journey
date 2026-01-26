@@ -33,8 +33,6 @@ python playwright_bot.py
 
 ### Output
 
-Browser opens and navigates automatically
-
-Metadata saved as netflix_metadata.txt
-
-Demo execution recorded in playwright.mov
+- Browser opens and navigates automatically
+- Metadata saved as netflix_metadata.txt
+- Demo execution recorded in <video controls src="https://github.com/R-Sathyabama/Genai_Journey/blob/main/assignments/week1/playwright/playwright.mp4" title="playwright.mp4"></video>

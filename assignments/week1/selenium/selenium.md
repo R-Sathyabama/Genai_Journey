@@ -29,8 +29,6 @@ python selenium_bot.py
 
 ### Output
 
-Automated navigation across multiple pages
-
-Successful file upload and UI interactions
-
-Demo recorded in selenium.mov
+- Automated navigation across multiple pages
+- Successful file upload and UI interactions
+- Demo recorded in [selenium.mp4](https://github.com/R-Sathyabama/Genai_Journey/blob/main/assignments/week1/selenium/selenium.md)

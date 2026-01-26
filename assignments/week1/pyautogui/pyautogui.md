@@ -30,8 +30,6 @@ python pyautogui_bot.py
 ⚠️ Ensure the browser window is active before execution.
 
 ###  Output
-Google News search opens
-
-First news article is clicked
-
-Demo recorded in pyautogui.mov
+- Google News search opens
+- First news article is clicked
+- Demo recorded in <video controls src="https://github.com/R-Sathyabama/Genai_Journey/blob/main/assignments/week1/pyautogui/pyautogui.mp4" title="pyautogui.mp4"></video>

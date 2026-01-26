@@ -28,8 +28,6 @@ streamlit run streamlit_bot.py
 ```
 
 ###  Output
-Web-based interactive dashboard
-
-User-specific data storage
-
-Demo recorded in streamlit.mov
+- Web-based interactive dashboard
+- User-specific data storage
+- Demo recorded in <video controls src="https://github.com/R-Sathyabama/Genai_Journey/blob/main/assignments/week1/streamlit/streamlit.mp4" title="streamlit.mp4"></video>
