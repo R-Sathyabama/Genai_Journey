@@ -1,0 +1,67 @@
+create vdo using image for better consistency
+
+first image:
+create a image A cinematic, ultra-realistic full-body image of a South Asian women in her 20s with an athletic build, wearing a neatly tied checked lungi, a fitted grey T-shirt, dark coolers, and headphones. she is standing confidently on a modern metro station platform, clearly waiting for an incoming train. The yellow safety line is visible near her feet, and the metro train approaches in the background with subtle motion blur. Low-angle cinematic framing, natural daylight filtering through the station roof, realistic fabric folds, sharp subject focus with softly blurred background, premium urban lifestyle aesthetic.
+Negative Prompt: No cartoon, no anime, no exaggerated muscles, no jeans, no trousers, no distorted anatomy, no text, no watermark, no logos
+ 
+ second image:
+ create  image
+A highly cinematic, ultra-realistic full-body shot of a South Asian female model in her late 20s walking a high-fashion runway. He wears a women James Bond–style black tailored coat with sharp lapels, paired boldly with a traditional checked lungi tied cleanly with elegant folds and no pockets. Dramatic runway lighting from above, glossy black floor reflections, blurred audience silhouettes on both sides. Low-angle, front-facing tracking composition, strong confident posture, premium editorial fashion-film look with subtle film grain and high contrast.
+Negative Prompt: No cartoon, no anime, no casual jacket, no jeans, no trousers, no plastic skin, no distorted hands, no text, no watermark, no logos.
+
+Third image:
+create a image
+A high-energy, ultra-realistic cinematic image of a South Asian woman in her 20s standing at the center of a
+concert or party stage. she wears a red checked lungi tied neatly and a black sleeveless T-shirt, projecting
+confidence and swagger. she is surrounded by four girls—two on his left and two on her right—dancing,
+smiling, and enjoying the moment without blocking the lungi. Warm red and orange stage lights, light
+smoke in the air, cheering crowd silhouettes in the background. Low-angle, front-facing cinematic
+composition, subject in sharp focus, background softly blurred, dramatic lighting with subtle film grain.
+Negative Prompt: No cartoon, no anime, no vulgar poses, no jeans, no trousers, no distorted faces, no
+extra fingers, no text, no watermark, no logos.
+
+Fourth image:
+A high-energy, ultra-realistic cinematic image of a South Asian rock musician performing live on a concert stage, playing an electric guitar with intensity. she is wearing a red checked lungi styled confidently with bold folds and a dark sleeveless rock T-shirt. Athletic physique, expressive face, sweat visible, raw performance emotion captured mid-action. Blazing red and amber stage lights, dramatic backlighting, light smoke and fog, crowd silhouettes with raised hands in the background. Low-angle dynamic shot with slight motion blur on guitar strings, gritty rock-concert aesthetic.
+
+Negative Prompt: No cartoon, no anime, no pop idol styling, no jeans, no trousers, no distorted guitar, no extra fingers, no text, no watermark, no logos.
+ 
+
+
+fifth image:
+A premium advertisement end frame in 16:9 aspect ratio featuring a dark charcoal-black fabric-textured background with subtle woven details. Centered on the frame is the brand name “CAPTAIN” in bold, elegant gold typography, refined and authoritative. Beneath it, in smaller, balanced lettering, the subtitle “Kattam Potta Lungi” appears in matching gold tone.
+A soft golden light sweep passes horizontally across the text, creating a gentle highlight without glare. The background remains minimal, matte, and cinematic, with faint fabric folds adding depth. High contrast, luxury mass-brand aesthetic, clean composition, perfect spacing for television and digital advertising.
+Composition Notes:
+‌Aspect ratio: 16:9 (landscape)
+‌Text perfectly centered horizontally and vertically
+‌Generous negative space around the logo
+‌Subtle vignette toward the edges
+Style & Finish:
+‌Cinematic branding still
+‌Premium textile-inspired texture
+‌Soft film grain
+‌No motion blur
+‌Sharp, crisp typography
+Negative Prompt
+no characters, no people, no extra text, no watermark, no logos other than brand name, no clutter, no gradients overpowering text, no neon glow
+
+## use gemini chatgpt for creating image for now
+once created image , using ggole flow create first half vdo using 1st & 2nd image using this prompt in frame to vdo sections
+
+first half vdo:
+A  cinematic video. A South Asian woman in her 20s with an athletic build wears a checked lungi, fitted grey T-shirt, coolers and headphones, standing on a modern metro platform. Low-angle full-body shot as a metro train approaches behind her; light wind moves the lungi but it stays perfectly stable. Natural daylight, realistic shadows, premium urban vibe. Camera slowly tracks forward in subtle slow motion, highlighting the lungi’s fit and flow. End on a strong full-body frame emphasizing confidence and everyday style.
+
+Style tags: cinematic realism, low-angle, slow motion, urban lifestyle, fabric physics, shallow depth of field
+
+second half vdo:
+. The same South Asian man now walks a luxury fashion runway, wearing a James Bond–style black coat paired with the same checked lungi. Dramatic runway lights from above, glossy black floor with reflections, audience silhouettes blurred on both sides. Low-angle, front-facing tracking shot in slow motion as he walks with authority. Crisp fabric detail, controlled movement, powerful posture. End on a centered frame showcasing the lungi as a premium fashion statement.
+Style tags: fashion film, cinematic lighting, low-angle tracking, slow motion, editorial luxury, high contrast
+
+title card vdo:
+A dark charcoal-black textured background fills the screen, inspired by premium fabric weave. A soft golden light sweep moves horizontally across the frame from left to right. As the light passes, the brand name “CAPTAIN” appears in bold, elegant gold typography at the center. Below it, the subtitle “Kattam Potta Lungi” fades in smoothly with subtle glow control.
+The background texture gently breathes, resembling slow-moving fabric folds. The gold lettering catches light naturally, with refined highlights and shadows—no harsh shine. The camera remains static with a very subtle cinematic push-in for authority. Minimal grain, high contrast, luxury mass-brand aesthetic. The frame holds cleanly for brand recall.
+Style keywords:
+Premium advertisement end frame, cinematic branding, subtle animation, gold typography, fabric texture background, minimal, elegant, high contrast, brand recall shot
+
+
+after created 3 vdos:
+merge as a single vdo using https://app.clipchamp.com/
