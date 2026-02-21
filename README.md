@@ -1,8 +1,6 @@
 # 🚀 GenAI Journey – From DevOps to AI Engineer
 
-```markdown
-# 🚀 GenAI Journey
-
+```
 > Hands-on exploration of Generative AI, RAG systems, LLM pipelines, and AI automation.
 
 This repository documents my practical journey into Generative AI — building real-world use cases using LangChain, LLMs, RAG architectures, automation workflows, and deployment pipelines.
@@ -15,7 +13,7 @@ DevOps & Cloud Engineer with 5+ years of experience transitioning into:
 - LLM Applications
 - RAG Architectures
 - AI Automation Workflows
-- AI + DevOps (LLMOps)
+- AI + DevOps
 
 This repo is my structured learning and experimentation space.
 
